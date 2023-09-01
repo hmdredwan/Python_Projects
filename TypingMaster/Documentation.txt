@@ -27,7 +27,7 @@ Instructions:
     1. Press any key to start the typing test.
     2. Type the target text as quickly and accurately as possible.
     3. Use backspace to correct mistakes.
-    4. After completing the text, your WPM will be displayed.
+    4. After completing the text correctly, your WPM will be displayed.
     5. Press any key to continue or press the 'Esc' key to exit.
 
 Note:
